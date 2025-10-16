@@ -166,7 +166,8 @@ th, td{
     	gap: 20px;
     	position: absolute;
     	width: auto;
-    	right: 430px;
+    	right: 25%;
+    	left: 48%;
     	background-color: transparent;
     }
 
